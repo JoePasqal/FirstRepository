@@ -12,3 +12,5 @@
  > *git branch -d [nazvanie] -  удалить ветку с названием
  
 # Main commands 3 lesson
+
+> Создал строку
