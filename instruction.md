@@ -11,3 +11,4 @@
  А теперь мы создаем по приколу конфликт
  > *git branch -d [nazvanie] -  удалить ветку с названием
  
+# Main commands 3 lesson
